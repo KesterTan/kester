@@ -16,7 +16,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "homepage": "https://kestertan.github.io/kester",
+        "homepage": "https://kestertan.github.io",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "build": "react-scripts build",
