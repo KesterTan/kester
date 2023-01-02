@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8688eed4.css",
+    "main.js": "/static/js/main.7b288d67.js",
+    "static/media/BlockMarket.PNG": "/static/media/BlockMarket.fd656aa079198bed9209.PNG",
+    "static/media/HowYa.PNG": "/static/media/HowYa.44d12bce33f77acbcb32.PNG",
+    "static/media/Image_2.JPG": "/static/media/Image_2.13cd785b6c8090ba14ea.JPG",
+    "static/media/reversi.png": "/static/media/reversi.5a8382872dfb9d034609.png",
+    "static/media/Kester_Resume.pdf": "/static/media/Kester_Resume.5955f8274ca506a849ae.pdf",
+    "static/media/Pic1.jpeg": "/static/media/Pic1.a4ceef6ad65cc8c8abe2.jpeg",
+    "static/media/dailyBugle.svg": "/static/media/dailyBugle.3d72d49dbf27309a8d158e5a3c6b5f86.svg",
+    "index.html": "/index.html",
+    "main.8688eed4.css.map": "/static/css/main.8688eed4.css.map",
+    "main.7b288d67.js.map": "/static/js/main.7b288d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8688eed4.css",
+    "static/js/main.7b288d67.js"
+  ]
+}
