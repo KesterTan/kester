@@ -4,7 +4,7 @@ import resume from "../../assets/Kester_Resume.pdf"
 const CTA = () => {
   return (
     <div className="cta">
-        <a href={resume} download className='btn'>Download Resume</a>
+        <a href={resume} target="_blank" className='btn'>Download Resume</a>
         <a href='#contact' className='btn btn-primary'>Let's talk</a>
     </div>
   )
