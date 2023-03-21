@@ -124,6 +124,38 @@ const experience = () => {
               </div>
             </article>
 
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Ruby on Rails</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>C</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>SML</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Docker</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
           </div>
         </div>
       </div>
